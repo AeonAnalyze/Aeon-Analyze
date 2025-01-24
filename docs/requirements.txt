@@ -1,0 +1,4 @@
+solana
+pandas
+numpy
+matplotlib
